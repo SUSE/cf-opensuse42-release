@@ -1,0 +1,4 @@
+---
+name: opensusefs2
+files:
+- rootfs/opensusefs2-*.tar.gz
