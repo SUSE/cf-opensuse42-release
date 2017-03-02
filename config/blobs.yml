@@ -1,5 +1,5 @@
 ---
-rootfs/cflinuxfs2-1.102.0.tar.gz:
-  object_id: 3a4ebf01-34ac-4431-88fc-f284555922cb
-  sha: c6fdcf5cfab792ab0569537871444c41fef28528
-  size: 286832890
+rootfs/opensusefs2-1.102.0-3fe32ee.tar.gz:
+  object_id: opensusefs2-1.102.0-3fe32ee.tar.gz
+  sha: 3fe32ee52c5c005bce35cb8a97d63cd77f734641
+  size: 308889533

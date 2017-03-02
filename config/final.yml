@@ -1,6 +1,6 @@
 ---
-final_name: cflinuxfs2-rootfs
+final_name: opensusefs2-rootfs
 blobstore:
   provider: s3
   options:
-    bucket_name: rootfs
+    bucket_name: jandubois
