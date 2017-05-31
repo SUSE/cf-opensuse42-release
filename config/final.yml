@@ -1,5 +1,5 @@
 ---
-final_name: opensusefs2-rootfs
+final_name: cf-opensuse42
 blobstore:
   provider: s3
   options:

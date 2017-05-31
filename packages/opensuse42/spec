@@ -1,0 +1,4 @@
+---
+name: opensuse42
+files:
+- rootfs/opensuse42-*.tar.gz

@@ -1,4 +1,0 @@
-set -e -x
-
-echo "Copying rootfs"
-cp rootfs/opensusefs2-*.tar.gz ${BOSH_INSTALL_TARGET}/opensusefs2.tar.gz

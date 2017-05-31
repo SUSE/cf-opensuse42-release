@@ -1,13 +1,13 @@
 ---
-name: opensusefs2-rootfs-setup
+name: opensuse42-rootfs-setup
 
 templates:
   pre-start: bin/pre-start
   trusted_ca.crt.erb: config/certs/trusted_ca.crt
 
 packages:
-  - opensusefs2
+  - opensuse42
 
 properties:
-  opensusefs2-rootfs.trusted_certs:
+  opensuse42-rootfs.trusted_certs:
     description: "certficates to add to the rootfs trust store"

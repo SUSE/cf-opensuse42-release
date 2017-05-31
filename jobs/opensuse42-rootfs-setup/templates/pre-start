@@ -1,14 +1,14 @@
 #!/bin/bash -ex
 # vim: set ft=sh
 
-CONF_DIR=/var/vcap/jobs/opensusefs2-rootfs-setup/config
-ROOTFS_PACKAGE=/var/vcap/packages/opensusefs2
+CONF_DIR=/var/vcap/jobs/opensuse42-rootfs-setup/config
+ROOTFS_PACKAGE=/var/vcap/packages/opensuse42
 ROOTFS_DIR=$ROOTFS_PACKAGE/rootfs
 ROOTFS_TAR=$ROOTFS_PACKAGE/rootfs.tar
 
 if [ ! -d $ROOTFS_DIR ]; then
   mkdir -p $ROOTFS_DIR
-  tar -pzxf $ROOTFS_PACKAGE/opensusefs2.tar.gz -C $ROOTFS_DIR
+  tar -pzxf $ROOTFS_PACKAGE/opensuse42.tar.gz -C $ROOTFS_DIR
 fi
 
 rm -f $ROOTFS_DIR/usr/local/share/ca-certificates/*

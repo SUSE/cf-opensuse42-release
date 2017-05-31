@@ -1,5 +1,5 @@
 ---
-rootfs/opensusefs2-1.102.0-6383412.tar.gz:
-  object_id: opensusefs2-1.102.0-6383412.tar.gz
+rootfs/opensuse42-1.102.0-6383412.tar.gz:
+  object_id: opensuse42-1.102.0-6383412.tar.gz
   sha: 63834122fe6bfb38ec1f4231703c924f67239657
   size: 339541824

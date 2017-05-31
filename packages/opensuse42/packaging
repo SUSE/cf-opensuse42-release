@@ -1,0 +1,4 @@
+set -e -x
+
+echo "Copying rootfs"
+cp rootfs/opensuse42-*.tar.gz ${BOSH_INSTALL_TARGET}/opensuse42.tar.gz

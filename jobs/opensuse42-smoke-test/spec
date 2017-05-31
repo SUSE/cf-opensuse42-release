@@ -1,10 +1,10 @@
 ---
-name: opensusefs2-smoke-test
+name: opensuse42-smoke-test
 
 templates:
   run.erb: bin/run
   trusted_ca.crt.erb: config/certs/trusted_ca.crt
 
 properties:
-  opensusefs2-rootfs.trusted_certs:
+  opensuse42-rootfs.trusted_certs:
     description: "certficates to add to the rootfs trust store"
