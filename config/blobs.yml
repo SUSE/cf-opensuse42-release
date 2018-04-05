@@ -1,5 +1,5 @@
 ---
 rootfs/opensuse42-1.102.0-6383412.tar.gz:
-  object_id: cf-opensuse42-1.103.1-7.16-c165ffc.tar.gz
-  sha: c165ffc45140e4f1e262ff3a4a23121c7bd44eb5
-  size: 322585693
+  object_id: cf-opensuse42-1.103.1-7.17-b32ff1b.tar.gz
+  sha: b32ff1b6adeb6aee2b48ed3d2024f70c7bf5b466
+  size: 322576797
