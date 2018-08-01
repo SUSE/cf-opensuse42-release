@@ -2,7 +2,7 @@
 
 set -ex
 
-CERTS_DIR=/var/vcap/packages/opensuse42/rootfs/usr/local/share/ca-certificates/
+CERTS_DIR=/var/vcap/packages/opensuse42/rootfs/etc/pki/trust/anchors/
 CERTS=/var/vcap/jobs/opensuse42-smoke-test/config/certs/trusted_ca.crt
 CERTS_COUNT=`grep "END CERTIFICATE" $CERTS | wc -l`
 FILE_COUNT=`find $CERTS_DIR -type f | wc -l`
