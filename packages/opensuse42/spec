@@ -1,4 +1,4 @@
 ---
-name: opensuse42
+name: cf-opensuse42
 files:
-- rootfs/opensuse42-*.tar.gz
+- rootfs/cf-opensuse42-*.tar.gz
