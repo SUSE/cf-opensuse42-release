@@ -8,7 +8,7 @@ ROOTFS_TAR=$ROOTFS_PACKAGE/rootfs.tar
 
 if [ ! -d $ROOTFS_DIR ]; then
   mkdir -p $ROOTFS_DIR
-  tar -pzxf $ROOTFS_PACKAGE/opensuse42.tar.gz -C $ROOTFS_DIR
+  tar -pzxf $ROOTFS_PACKAGE/cf-opensuse42.tar.gz -C $ROOTFS_DIR
 fi
 
 # Split files on '----END CERTIFICATE-----' and increment our file counter by 1
