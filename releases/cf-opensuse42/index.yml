@@ -7,4 +7,6 @@ builds:
     version: 1.7.70
   e207001a-c770-4aee-7c23-8af891240af9:
     version: 1.7.72
+  f1674b00-42b9-4435-53bf-54bb84d5981f:
+    version: 1.7.73
 format-version: "2"
