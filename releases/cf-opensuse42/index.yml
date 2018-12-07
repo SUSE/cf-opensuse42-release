@@ -47,4 +47,6 @@ builds:
     version: 1.7.75
   fed51588-ff9e-448c-50b4-fcd905053c6c:
     version: 1.7.74
+  fffa50a8-12a7-4262-7291-29cb0f373eec:
+    version: 1.7.95
 format-version: "2"
