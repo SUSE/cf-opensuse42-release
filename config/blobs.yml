@@ -1,5 +1,5 @@
 ---
-rootfs/cf-opensuse42-1.7.96-321c356.tar.gz:
-  object_id: cf-opensuse42-1.7.96-321c356.tar.gz
-  sha: 321c3566793d11610a80406451afe7f3afacfca4
-  size: 325462734
+rootfs/cf-opensuse42-1.7.97-3fa0882.tar.gz:
+  object_id: cf-opensuse42-1.7.97-3fa0882.tar.gz
+  sha: 3fa08824a874c50c1d4eabe7edeb107e3f930a5a
+  size: 325443656
