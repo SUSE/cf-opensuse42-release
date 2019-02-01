@@ -1,0 +1,23 @@
+name: cf-opensuse42
+version: 1.8.2
+commit_hash: 81298dd
+uncommitted_changes: false
+jobs:
+- name: opensuse42-rootfs-setup
+  version: 92c0c3c90504d788d254286b4b4dbde2ca8a8c50
+  fingerprint: 92c0c3c90504d788d254286b4b4dbde2ca8a8c50
+  sha1: 64a27380c51bb2aafbed386e2c285f5efb838000
+- name: opensuse42-smoke-test
+  version: 97d58fd1f0ebb8b4a67440fb8363d0b11a1ee441
+  fingerprint: 97d58fd1f0ebb8b4a67440fb8363d0b11a1ee441
+  sha1: e77fc79167398d0287998d099a6336f2c7f9ffa6
+packages:
+- name: opensuse42
+  version: f59ef544dcf9f71c67165c59d849c83082413ca4
+  fingerprint: f59ef544dcf9f71c67165c59d849c83082413ca4
+  sha1: dbed3d8d69edd8ebb8e1605b91ff267745bd7273
+  dependencies: []
+license:
+  version: 9e6129bc483cf75ec60322c94fc5d44c5882a8a8
+  fingerprint: 9e6129bc483cf75ec60322c94fc5d44c5882a8a8
+  sha1: 5b05336622e636a9d89be3432dd679bf278f216f
