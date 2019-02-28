@@ -1,5 +1,5 @@
 ---
-rootfs/cf-opensuse42-1.21.1-767dcda.tar.gz:
-  object_id: cf-opensuse42-1.21.1-767dcda.tar.gz
-  sha: 767dcda88276b3c2c4ab1b3cbb000fd2331e51e6
-  size: 325735404
+rootfs/cf-opensuse42-1.21.2-673a720.tar.gz:
+  object_id: cf-opensuse42-1.21.2-673a720.tar.gz
+  sha: 673a720d473e632da8ad260be635b67cba5b0ecb
+  size: 325782867
