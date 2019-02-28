@@ -65,6 +65,8 @@ builds:
     version: 1.7.99
   c1523a09-66c9-4b93-4480-f5d23b2e3945:
     version: 1.7.105
+  c4190048-0602-463f-5fb9-0ec140cc9a27:
+    version: 1.21.2
   c68e384b-d509-41c6-59a7-451964892dca:
     version: 1.7.89
   ce256b9f-3f8b-486c-55e5-d5bf9db8b3b8:
